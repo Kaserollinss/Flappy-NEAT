@@ -1,8 +1,83 @@
-html, body {
+html {
   margin: 0;
   padding: 10px;
 }
 
 canvas {
   display: block;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.canvas-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.leaderboard-container {
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.section {
+  flex: 1;
+}
+.section3 {
+  display: inline-flex;
+  margin-left: 25px;
+}
+
+h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+  white-space: nowrap;
+  margin-left:20px;
+
+}
+
+p {
+  margin: 0;
+  line-height: 1.5;
+  font-size: 16px;
+  color: #333;
+  white-space: nowrap;
+  margin-left: 20px;
+  
+}
+
+span {
+  font-weight: bold;
+  color: #007bff;
+  min-width: 30px; /* Set a minimum width */
+  display: inline-block; /* Make the span a block element */
+}
+
+.sliders-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#gen {
+  margin-right: 30px
+}
+
+.container {
+  background-color: #c1c7cf;
+  border-radius: 15px;
+  padding: 10px 40px 0px 40px;
 }
