@@ -23,7 +23,7 @@ Make sure you have a modern web browser and a code editor installed on your mach
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/Kaserollinss/Flappy-NEAT/
    
 2. Open index.html in a web browser to start the game.
   
