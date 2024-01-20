@@ -1,6 +1,6 @@
 # Flappy Bird with NEAT Genetic Algorithm
 
-![Screen-Recording-2024-01-20-at-6](https://github.com/Kaserollinss/Flappy-NEAT/assets/156269387/5145d0ab-7077-49bc-bab5-9bbbe101e9ab)
+![Screen-Recording-2024-01-20-at-6](https://github.com/Kaserollinss/Flappy-NEAT/assets/156269387/5145d0ab-7077-49bc-bab5-9bbbe101e9ab =532×879)
 
 ## Overview
 
