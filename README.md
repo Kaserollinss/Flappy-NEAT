@@ -1,6 +1,6 @@
 # Flappy Bird with NEAT Genetic Algorithm
 
-![Flappy Bird NEAT](screenshot.png)
+![Screen-Recording-2024-01-20-at-6](https://github.com/Kaserollinss/Flappy-NEAT/assets/156269387/5145d0ab-7077-49bc-bab5-9bbbe101e9ab)
 
 ## Overview
 
@@ -14,9 +14,6 @@ This project is an implementation of the classic Flappy Bird game using JavaScri
 
 ## Getting Started
 
-### Prerequisites
-
-Make sure you have a modern web browser and a code editor installed on your machine.
 
 ### Installation
 
