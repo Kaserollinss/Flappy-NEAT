@@ -38,8 +38,3 @@ Contributions are welcome! If you have ideas for improvements, bug fixes, or new
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-
-The Flappy Bird game concept is credited to Dong Nguyen.
-NEAT algorithm implementation is inspired by the work of Kenneth O. Stanley and others.
-Enjoy playing and evolving with Flappy Bird and the NEAT genetic algorithm!
